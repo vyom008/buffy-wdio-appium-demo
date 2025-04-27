@@ -1,0 +1,16 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore Appium iOS/Android app binaries if not needed
+app/**/*.apk
+app/**/*.app
+
+# Ignore reports
+allure-report/
+allure-results/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore logs
+*.log
