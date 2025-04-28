@@ -3,7 +3,7 @@ node_modules/
 
 # Ignore Appium iOS/Android app binaries
 app/**/*.apk
-app/**/*.app
+# app/**/*.app
 
 # Ignore reports
 allure-report/
